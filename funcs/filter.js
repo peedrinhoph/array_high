@@ -7,7 +7,7 @@ const childrenFiltered = childrenAge.filter(
   element => element >= 2 && element <= 11
 );
 
-// 2. Emails rocketseat.com.br
+// 2. Emails rocketseat.com.br 
 const filteredMails = mailList.filter(mail => mail.includes("@rocketseat.com"));
 
 var filteredRocketseatMails = [];
