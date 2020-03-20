@@ -14,10 +14,11 @@
 - [x] Primeiro git commit
 - [x] Primeiro git pull
 - [x] [Markdown](https://guides.github.com/features/mastering-markdown/) - Utilização do Markdown no Readme
-
-![Image of Yaktocat](https://github.com/peedrinhoph/array_high/blob/master/icon.javascript.png)
+- [x] Adicionar imagem - Markdown
 
 ## Functions Array
+
+![Image of Yaktocat](https://github.com/peedrinhoph/array_high/blob/master/icon.javascript.png)
 
 * Filter
 * Find
