@@ -1,13 +1,13 @@
 module.exports = {
   childrenAge: [2, 0, 5, 8, 12, 17, 13, 7, 10],
   mailList: [
-    "robson@rocketseat.com",
-    "fulano@gmail.com",
-    "cleiton@rocketseat.com",
-    "diego@rocketseat.com",
-    "eu@adonis.com",
-    "aloha@hawaii.com",
-    "outro@emailqualquer.com"
+    "mariarocha@localhost.com",
+    "maria.rocha@localhost.com",
+    "m-r@localhost.com",
+    "rocha@localhost.com",
+    "ccontato@m-rr.com.br",
+    "contato@m-r.com.br",
+    "contato@m_r.com.br"
   ],
   passengers: [
     { name: "Ademar", birthYear: 1975 },
