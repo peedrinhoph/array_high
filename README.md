@@ -1,10 +1,7 @@
-# Test
-- [x] Primeiro Commit
-```
-Mastering Markdown
-```
+![Image of Yaktocat](https://github.com/peedrinhoph/array_high/blob/master/icon.javascript.png)
+# Primeiro Commit
 
-- [x] [Markdown](https://guides.github.com/features/mastering-markdown/) - Test
+- [x] [Markdown](https://guides.github.com/features/mastering-markdown/) - Guide
 
 ## Functions Array
 
@@ -16,3 +13,7 @@ Mastering Markdown
 * Sort
 * Push
 * Split
+
+```
+Mastering Markdown
+```
